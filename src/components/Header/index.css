@@ -1,0 +1,35 @@
+.header-container {
+  background-color: #202020;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 45px 10px 45px;
+  align-items: center;
+}
+
+.header-website-logo {
+  width: 120px;
+}
+
+.home-jobs-link-container {
+  display: flex;
+  width: 120px;
+  justify-content: space-between;
+}
+
+.home-jobs-link {
+  color: white;
+  outline: none;
+  text-decoration: none;
+}
+
+.logout-button {
+  color: white;
+  outline: none;
+  border: 0px;
+  background-color: #4f46e5;
+  width: 75px;
+  font-size: 10px;
+  height: 25px;
+  border-radius: 5px;
+  cursor: pointer;
+}
